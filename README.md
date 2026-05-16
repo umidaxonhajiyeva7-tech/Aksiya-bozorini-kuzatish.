@@ -15,3 +15,7 @@ Bu loyiha Python yordamida aksiya narxlarini kuzatish va tahlil qilish uchun yar
 
 ## 👩‍💻 Muallif
 Umidaxon Hajiyeva
+
+## 📊 Grafik natija
+
+![Apple Stock](data/apple_stock_chart.png)
